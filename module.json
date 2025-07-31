@@ -1,10 +1,10 @@
 {
   "id": "coc7-de",
-  "title": "Call of Cthulhu 7.Edition Deutsch",
-  "description": "Call of Cthulhu 7.Edition Deutsch.",
+  "title": "Call of Cthulhu 7.Edition (deutsch)",
+  "description": "Deutsche Lokalisierung für Call of Cthulhu 7.Edition.",
   "authors": [
     {
-      "name": "n4nr1n"
+      "name": "nanr1n"
     }
   ],
   "version": "0.13.1",
