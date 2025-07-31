@@ -23,5 +23,8 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "manifest": "https://github.com/nanr1n/coc7-de/releases/latest/download/module.json",
+  "download": "https://github.com/nanr1n/coc7-de/releases/latest/download/coc7-de.zip"
+}
 }
