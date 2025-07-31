@@ -7,10 +7,10 @@
       "name": "nanr1n"
     }
   ],
-  "version": "0.13.2",
+  "version": "0.13.3",
   "compatibility": {
     "minimum": 12,
-    "verified": 13.344
+    "verified": 13
   },
   "esmodules": [
     "register.js"
